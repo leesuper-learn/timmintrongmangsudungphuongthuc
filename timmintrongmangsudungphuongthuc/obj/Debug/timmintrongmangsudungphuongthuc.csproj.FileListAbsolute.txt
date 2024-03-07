@@ -1,0 +1,7 @@
+E:\C#\online\W05\Hamvaphuongthuctrongham1\timmintrongmangsudungphuongthuc\timmintrongmangsudungphuongthuc\bin\Debug\timmintrongmangsudungphuongthuc.exe.config
+E:\C#\online\W05\Hamvaphuongthuctrongham1\timmintrongmangsudungphuongthuc\timmintrongmangsudungphuongthuc\bin\Debug\timmintrongmangsudungphuongthuc.exe
+E:\C#\online\W05\Hamvaphuongthuctrongham1\timmintrongmangsudungphuongthuc\timmintrongmangsudungphuongthuc\bin\Debug\timmintrongmangsudungphuongthuc.pdb
+E:\C#\online\W05\Hamvaphuongthuctrongham1\timmintrongmangsudungphuongthuc\timmintrongmangsudungphuongthuc\obj\Debug\timmintrongmangsudungphuongthuc.csproj.AssemblyReference.cache
+E:\C#\online\W05\Hamvaphuongthuctrongham1\timmintrongmangsudungphuongthuc\timmintrongmangsudungphuongthuc\obj\Debug\timmintrongmangsudungphuongthuc.csproj.CoreCompileInputs.cache
+E:\C#\online\W05\Hamvaphuongthuctrongham1\timmintrongmangsudungphuongthuc\timmintrongmangsudungphuongthuc\obj\Debug\timmintrongmangsudungphuongthuc.exe
+E:\C#\online\W05\Hamvaphuongthuctrongham1\timmintrongmangsudungphuongthuc\timmintrongmangsudungphuongthuc\obj\Debug\timmintrongmangsudungphuongthuc.pdb
